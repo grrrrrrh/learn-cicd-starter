@@ -2,7 +2,7 @@
 
 
 
-![Badge]()
+
 
 # learn-cicd-starter (Notely)
 
