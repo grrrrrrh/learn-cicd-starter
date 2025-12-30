@@ -1,16 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Tests](https://github.com/grrrrrrh/learn-cicd-starter/actions/workflows/ci.yml/badge.svg?branch=main)
 
 # learn-cicd-starter (Notely)
 
