@@ -21,3 +21,6 @@ func GetAPIKey(headers http.Header) (string, error) {
 
 	return splitAuth[1], nil
 }
+
+// unusedFunctionForCI is intentionally unused to demonstrate staticcheck failing in CI.
+func unusedFunctionForCI() string { return "unused" }
